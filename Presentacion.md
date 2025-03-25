@@ -9,3 +9,5 @@ Evidenciamos como se inicia la imagen de docker e inicializa el puerto y al ingr
 ![image](https://github.com/user-attachments/assets/8f462464-9625-493c-bed8-4280d8f4fd41)
 
 Esta app tiene un contador de las veces que se entre, se ejecuta, etc.
+
+ Y ejecutando *CRTL + C* cerramos el pueryo y dejamos de ejecutar el codigo
